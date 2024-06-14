@@ -39,5 +39,5 @@ function Submit() {
       setTimeout(function() {
         document.querySelector('.register-form-submit').classList.remove('hover');
       }, 3000);
-    }, 1000);
+    }, 500);
   });
